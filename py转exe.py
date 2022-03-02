@@ -13,4 +13,7 @@ https://github.com/Wu-hua1/pixiv_Spider/blob/main/img_files/py%E6%96%87%E4%BB%B6
 
 生成3个文件,双击dist里面的exe文件即可运行
 若要打包在其他电脑使用，把exe文件和pyc文件放在同一个文件夹即可，对方电脑不需要安装相关环境
+
+打包样例：
+https://github.com/Miki-Hunter/pixiv_Spider/blob/main/img_files/%E6%89%93%E5%8C%85exe.zip
 """
