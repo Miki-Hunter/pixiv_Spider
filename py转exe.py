@@ -8,7 +8,7 @@ filePath 就是code.py所在地址(复制即可)
 这里 -i min.ico 用于修改exe文件的图标,可以不添加，(与code.py处于同一目录下)
 
 详细可查看此图：
-https://github.com/Wu-hua1/pixiv_Spider/blob/main/img_files/py%E6%96%87%E4%BB%B6%E8%BD%AC%E4%B8%BAexe%E6%96%87%E4%BB%B6%E6%AD%A5%E9%AA%A4.jpg
+https://github.com/Miki-Hunter/pixiv_Spider/blob/main/img_files/py%E6%96%87%E4%BB%B6%E8%BD%AC%E4%B8%BAexe%E6%96%87%E4%BB%B6%E6%AD%A5%E9%AA%A4.jpg
 
 
 生成3个文件,双击dist里面的exe文件即可运行
